@@ -10,7 +10,7 @@ var options = {
   },
   identity: {
     username: "twitchexpandbot",
-    password: "oauth:6893d71oq7soev0i3rxtw9p1jip3z4"
+    password: "You're Auth Token"
   },
   channels: ["DoggeXL"]
 };
