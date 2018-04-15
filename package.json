@@ -1,0 +1,26 @@
+{
+  "name": "expandbot",
+  "version": "1.0.0",
+  "description": "Twitch bot with awesome features!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoggeXL/ExpandBot.git"
+  },
+  "keywords": [
+    "twitch",
+    "bot"
+  ],
+  "author": "Douglas Holmberg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoggeXL/ExpandBot/issues"
+  },
+  "homepage": "https://github.com/DoggeXL/ExpandBot#readme",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
