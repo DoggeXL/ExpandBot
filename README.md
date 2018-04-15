@@ -8,7 +8,7 @@
  
  You will also need to change all the DoggeXL and Channels with your twitch name. 
  
-<a href="https://giphy.com/gifs/xkPyxIStnZsmflqpoM/html5"><img src="https://giphy.com/gifs/xkPyxIStnZsmflqpoM/html5"></img>
+<a href="https://giphy.com/gifs/xkPyxIStnZsmflqpoM/html5"><img src="https://giphy.com/gifs/xkPyxIStnZsmflqpoM/html5"/></a>
  
  
  
