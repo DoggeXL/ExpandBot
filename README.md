@@ -7,7 +7,7 @@
  Change the user under Identity: to your bots twitch name. 
  
  You will also need to change all the DoggeXL and Channels with your twitch name. 
- <a href="https://gph.is/2JNASbZ"><img src="https://gph.is/2JNASbZ" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/28fklv"><img src="https://i.imgflip.com/28fklv.gif" title="made at imgflip.com"/></a>
  
  
  
